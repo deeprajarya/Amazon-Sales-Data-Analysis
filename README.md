@@ -1,7 +1,7 @@
 # Amazon Sales Data Analysis
 
 ## Introduction
-This README file provides an overview of the Amazon Sales Data Analysis project. The purpose of this analysis is to gain insights into sales trends, profitability, and other key metrics using the "Amazon_Sales_Records.csv" dataset.
+This internship project provides an overview of the Amazon Sales Data Analysis. The purpose of this analysis is to gain insights into sales trends, profitability, and other key metrics using the "Amazon_Sales_Records.csv" dataset.
 
 ## Dataset
 The dataset used for this analysis contains sales records from Amazon. It includes the following columns:
